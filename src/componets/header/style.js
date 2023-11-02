@@ -96,6 +96,7 @@ ul.headerNav {
     background: #080808;
     top: 88px;
     bottom: 0;
+    
     width: 50%;
     overflow: auto;
     padding-bottom: 400px;
