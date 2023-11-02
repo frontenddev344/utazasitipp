@@ -1,0 +1,32 @@
+body  {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.MuiContainer-root {
+  height: 100%;
+}
+
+h2 {
+  font-family: 'Cormorant Garamond', serif;
+}
+
+.css-18osm8d .headerBar {
+  background: #000000f7 !important;
+}
+body {
+  overflow-x: hidden;
+}
+.MuiContainer-root {
+  max-width: 1350px;
+}
