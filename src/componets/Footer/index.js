@@ -5,6 +5,7 @@ import LogoImg from "../../assests/logo.png";
 export default function Footer() {
     return (
         <>
+
             <FooterWrapper>
                 <footer>
                     <Box>
