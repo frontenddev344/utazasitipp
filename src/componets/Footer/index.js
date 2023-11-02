@@ -12,8 +12,8 @@ export default function Footer() {
                         <img src={LogoImg} alt='logo' />
                     </Box>
                 </footer>
-
             </FooterWrapper>
         </>
+
     )
 }
